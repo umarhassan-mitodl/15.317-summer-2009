@@ -1,0 +1,77 @@
+leftnav:
+- identifier: c75e6831-443f-3feb-3e76-75b979c32f1a
+  name: Overview
+  pageRef: /pages/Overview
+  weight: 10
+- identifier: 2b02d8e8-5104-6927-04c6-16d45fbf2e4e
+  name: Part I
+  pageRef: /pages/part-i/
+  weight: 20
+- identifier: 3bfc8942-ff99-7aed-845e-6ea1d7b78f44
+  name: Calendar
+  pageRef: /pages/part-i/calendar
+  parent: 2b02d8e8-5104-6927-04c6-16d45fbf2e4e
+  weight: 30
+- identifier: 380501db-93e9-62a6-5525-abbbbe5b81dc
+  name: Readings
+  pageRef: /pages/part-i/readings
+  parent: 2b02d8e8-5104-6927-04c6-16d45fbf2e4e
+  weight: 40
+- identifier: 86f624ed-6c55-ed62-67fd-15082c4cd2d1
+  name: Study Questions
+  pageRef: /pages/part-i/study-questions
+  parent: 2b02d8e8-5104-6927-04c6-16d45fbf2e4e
+  weight: 50
+- identifier: 0ead4f88-6e19-5818-ac7b-0a41d937c6a1
+  name: Lectures
+  pageRef: /pages/part-i/lectures
+  parent: 2b02d8e8-5104-6927-04c6-16d45fbf2e4e
+  weight: 60
+- identifier: dce33315-6629-5d2b-86db-9233def8f53f
+  name: Assignments
+  pageRef: /pages/part-i/assignments
+  parent: 2b02d8e8-5104-6927-04c6-16d45fbf2e4e
+  weight: 70
+- identifier: b0b667ad-034b-467e-9c16-5556d8a53f25
+  name: Internship
+  pageRef: /pages/internship/
+  weight: 80
+- identifier: d04fc536-c8d7-7ed5-8a81-b7c18c37db60
+  name: Session Schedule and Materials
+  pageRef: /pages/internship/session-schedule-and-materials
+  parent: b0b667ad-034b-467e-9c16-5556d8a53f25
+  weight: 90
+- identifier: 1d1d9af8-c21b-44bc-ecb4-d20388eee6a5
+  name: Assignments
+  pageRef: /pages/internship/assignments/
+  parent: b0b667ad-034b-467e-9c16-5556d8a53f25
+  weight: 100
+- identifier: 2f105422-3ed0-214d-28a7-ad1399295bff
+  name: Stakeholder Analysis
+  pageRef: /pages/internship/assignments/stakeholder-analysis
+  parent: 1d1d9af8-c21b-44bc-ecb4-d20388eee6a5
+  weight: 110
+- identifier: f17a2670-9292-2e3b-a84b-ef3606a69b44
+  name: The Three Perspectives on Organizational Processes
+  pageRef: /pages/internship/assignments/the-three-perspectives-on-organizational-processes
+  parent: 1d1d9af8-c21b-44bc-ecb4-d20388eee6a5
+  weight: 120
+- identifier: e5949092-491f-4438-e957-e4aeec68ef1d
+  name: 'Part II '
+  pageRef: /pages/part-ii/
+  weight: 130
+- identifier: e7b5cf75-90b1-c323-323c-38fbf2051ce6
+  name: Session Overviews
+  pageRef: /pages/part-ii/session-overviews
+  parent: e5949092-491f-4438-e957-e4aeec68ef1d
+  weight: 140
+- identifier: 5cb08451-765a-529a-8916-cd8a4718af4b
+  name: Readings
+  pageRef: /pages/part-ii/readings
+  parent: e5949092-491f-4438-e957-e4aeec68ef1d
+  weight: 150
+- identifier: ed2dc64b-989f-a298-a0c8-01cab6cc3a88
+  name: Assignments
+  pageRef: /pages/part-ii/assignments
+  parent: e5949092-491f-4438-e957-e4aeec68ef1d
+  weight: 160

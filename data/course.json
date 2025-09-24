@@ -1,0 +1,47 @@
+{
+  "term": "Summer",
+  "year": "2009",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Leadership"
+    ],
+    [
+      "Business",
+      "Operations Management"
+    ]
+  ],
+  "legacy_uid": "51855e71-7d3b-9f7f-6a06-5eba3e954336",
+  "instructors": {
+    "content": [
+      "e3601c6b-279c-5a90-a17a-5323ca46774e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "08c7f3c8-da5e-67e5-41a8-09e389ef1dec",
+    "website": "15-317-organizational-leadership-and-change-summer-2009"
+  },
+  "course_title": "Organizational Leadership and Change",
+  "course_description": "_15.317 Organizational Leadership and Change_ focuses on practical experience that blends theory and practice. Students reflect on prior leadership experiences and then apply lessons learned to further develop their leadership capabilities. The course requires active participation in all leadership classes and/or activities as well as short deliverables throughout the program.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.317",
+  "course_image_thumbnail": {
+    "content": "3ae5b3fa-28c6-5f77-d438-c9191a533ee5",
+    "website": "15-317-organizational-leadership-and-change-summer-2009"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "site_uid": "f6add2dc-ad65-4485-b739-49de289c5675",
+  "site_short_id": "15.317-summer-2009",
+  "site_url_path": "courses/15-317-organizational-leadership-and-change-summer-2009",
+  "title": "Course Metadata"
+}
