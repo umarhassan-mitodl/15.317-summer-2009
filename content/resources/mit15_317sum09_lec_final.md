@@ -4,6 +4,8 @@ description: This resource contains preparation notes for final class.
 file: /courses/15-317-organizational-leadership-and-change-summer-2009/0919590eec0acaaa1d5b615ff1197730_MIT15_317SUM09_lec_final.pdf
 file_size: 281337
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

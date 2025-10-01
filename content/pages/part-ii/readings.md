@@ -24,7 +24,7 @@ A different lens on leadership
 
 ### Watch
 
-{{% resource_link "67e629bf-7189-424f-a2d3-e50f42151594" "*Ratatouille*" %}}, directed by Brad Bird ad Jan Pinkava, 2007.
+[*Ratatouille*](http://www.imdb.com/title/tt0382932/), directed by Brad Bird ad Jan Pinkava, 2007.
 
 Consider: Who is taking leadership? When, how? Pay particular attention to Remy and Linguini and how they developed they leadership competencies.
 
@@ -34,9 +34,9 @@ Consider: Who is taking leadership? When, how? Pay particular attention to Remy 
 Leadership fears
 {{< tdclose >}}{{< tdopen >}}
 
-Leitschuh, Cheryl. {{% resource_link "77cd5cbc-b98f-4140-ba8e-fbb5d0243d36" "\"Leaders and the Four Fatal Fears.\" (PDF)" %}} *Nielson Report* 6, no. 4 (2006): 1–3. 
+Leitschuh, Cheryl. ["Leaders and the Four Fatal Fears." (PDF)](https://www.nielsongroup.com/newsletter/vol6issue4.pdf) *Nielson Report* 6, no. 4 (2006): 1–3. 
 
-Kets de Vries, Manfred F. R. "{{% resource_link "75c5b7be-8b03-44de-b312-990cf5b0e46b" "The Dangers of Feeling Like a Fake" %}}." *Harvard Business Review Magazine*, September 2005.
+Kets de Vries, Manfred F. R. "[The Dangers of Feeling Like a Fake](http://hbr.org/2005/09/the-dangers-of-feeling-like-a-fake/ar/1)." *Harvard Business Review Magazine*, September 2005.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -46,7 +46,7 @@ Leading stakeholders with diverse interests
 
 Dominguez, Cari. "Views from the EEOC: Generational Diversity." *Diversity & the Bar*, July/August 2003.
 
-Alsop, Ron. "{{% resource_link "1bf7ea37-ac56-4e02-af44-a7231f5d7dfd" "The 'Trophy Kids' Go to Work" %}}." *The Wall Street Journal* (October 21, 2008).
+Alsop, Ron. "[The 'Trophy Kids' Go to Work](http://www.careerjournal.com/article/SB122455219391652725.html)." *The Wall Street Journal* (October 21, 2008).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -60,7 +60,7 @@ Leading high performance teams and final class prep
 Leading transformational change
 {{< tdclose >}}{{< tdopen >}}
 
-Fairholm, Matthew R. "Leading from the Middle: The Power and Influence of Middle Leaders." *The Public Manager* 30, no. 4 (2001). ({{% resource_link "53921760-b191-436f-a749-9a0aeaba8808" "PDF" %}})
+Fairholm, Matthew R. "Leading from the Middle: The Power and Influence of Middle Leaders." *The Public Manager* 30, no. 4 (2001). ([PDF](https://www.researchgate.net/publication/283051923_Leading_from_the_Middle_The_Power_and_Influence_of_Middle_Leaders))
 
 ### Optional
 
