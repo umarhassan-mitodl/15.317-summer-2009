@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the schedule of lecture topics for the first part
   of the course along with the lecture notes from selected sessions.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Part I

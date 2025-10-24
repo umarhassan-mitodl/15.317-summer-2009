@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides an overview and materials for the internship component
   of the Leaders for Global Operations (LGO) Program.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Internship

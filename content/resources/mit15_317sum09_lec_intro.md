@@ -5,8 +5,6 @@ description: This resource contains an overview of the activity - exploring the 
 file: /courses/15-317-organizational-leadership-and-change-summer-2009/721b651b6b47c982c53af157c898adb2_MIT15_317SUM09_lec_intro.pdf
 file_size: 471241
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

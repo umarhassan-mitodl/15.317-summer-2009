@@ -4,8 +4,6 @@ description: This resource contains information related to stakeholder analysis.
 file: /courses/15-317-organizational-leadership-and-change-summer-2009/f86ccda7c3f344e0264d338fc8b3c54f_MIT15_317SUM09_lec_web01.pdf
 file_size: 625597
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
